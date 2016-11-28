@@ -21,5 +21,6 @@ rustc --version
 # TODO
 - [x] hello worldを作る
 - [ ] パッケージマネージャを使う
-- 
 
+# 参考
+https://github.com/rust-lang-ja/the-rust-programming-language-ja/tree/master/1.6/ja/book
